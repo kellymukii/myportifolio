@@ -1,3 +1,5 @@
 # myportifolio
-One page website showing my portfolio. Created using HTML AND css 
+Author: Kelly Kinyua
+The project is a One page website showing my portfolio. 
+It has been Created using HTML AND css 
 #Assignment Week 1
